@@ -1,5 +1,5 @@
 /*PROJECT - ROCK, PAPER AND SCISSOR
-DATE - 02/06/2021*/
+DATE - 05/06/2021*/
 
 #include<stdio.h>
 #include<time.h>
